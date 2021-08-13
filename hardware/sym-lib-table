@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name archive)(type Legacy)(uri ${KIPRJMOD}/turbocan-archive.lib)(options "")(descr ""))
+  (lib (name "archive")(type "Legacy")(uri "${KIPRJMOD}/turbocan-archive.lib")(options "")(descr ""))
+  (lib (name "turbocan-rescue")(type "Legacy")(uri "${KIPRJMOD}/turbocan-rescue.lib")(options "")(descr ""))
 )
